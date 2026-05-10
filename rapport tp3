@@ -1,0 +1,27 @@
+# Rapport — TP 3
+
+## Titre
+TP Protobuf et Sérialisation des Données
+
+## Introduction
+Ce TP permet de comprendre le fonctionnement de Protobuf et des techniques de sérialisation.
+
+## Objectifs
+- Comprendre la sérialisation
+- Découvrir Protobuf
+- Manipuler des schémas de données
+
+## Technologies utilisées
+- Python
+- Protobuf
+## Description des fichiers
+- protobuf_example.py : exemple Protobuf
+- pickexample.py : exemple de sérialisation
+- schema.py : définition des structures
+- main.py : exécution du TP
+
+## Résultat
+Le programme permet de sérialiser et désérialiser les données correctement.
+
+## Conclusion
+Ce TP a permis de découvrir des méthodes modernes d’échange et de stockage des données.
